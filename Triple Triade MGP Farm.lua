@@ -1,6 +1,6 @@
 --[=====[
 [[SND Metadata]]
-author: Ksirashi
+author: Ksirashi (Eclipse)
 version: 4
 description: >-
   TPs to Mor Dhona, flies to Klynthota and plays cards until target amount,
